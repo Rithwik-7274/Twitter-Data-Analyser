@@ -1,8 +1,8 @@
-## Twitter-Data-Analyser
+# Twitter-Data-Analyser
 
 Analyses your twitter data to give you information and statistics about your account
 
-# Installation 
+## Installation 
 
 - Download your twitter archive from x.com(settings > your account > download an archive of your data).
 
