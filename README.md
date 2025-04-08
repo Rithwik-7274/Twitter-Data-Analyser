@@ -10,6 +10,10 @@ Analyses your twitter data to give you information and statistics about your acc
 
 - Add the absolute location of your twitter data archive folder to the location variable in the second cell.
 
+```
+location = "\mycomputer\twitter_json_files"
+```
+
 - Run every cell.
 
 - Enjoy!!!
